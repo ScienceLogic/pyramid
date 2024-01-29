@@ -7,6 +7,8 @@
   is not a security-related feature and is considered an implementation detail
   that should not impact users.
 
+  See https://github.com/Pylons/pyramid/pull/3745
+
 Bug Fixes
 ---------
 
